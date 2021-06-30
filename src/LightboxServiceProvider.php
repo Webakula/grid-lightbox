@@ -3,7 +3,7 @@
 namespace Encore\Grid\Lightbox;
 
 use Encore\Admin\Admin;
-use Encore\Admin\Grid\Column;
+use Encore\Admin\Table\Column;
 use Illuminate\Support\ServiceProvider;
 
 class LightboxServiceProvider extends ServiceProvider
