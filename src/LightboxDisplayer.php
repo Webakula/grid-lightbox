@@ -3,7 +3,7 @@
 namespace Encore\Grid\Lightbox;
 
 use Encore\Admin\Admin;
-use Encore\Admin\Grid\Displayers\AbstractDisplayer;
+use Encore\Admin\Table\Displayers\AbstractDisplayer;
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Storage;
